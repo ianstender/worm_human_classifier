@@ -2,6 +2,7 @@
 # Species-Specific DNA Classification Using Machine Learning
 
 This project uses convolutional neural networks (CNNs) to classify DNA sequences as belonging to either humans or worms. By analyzing 200 bp-long sequences, the model identifies species-specific patterns and motifs, showcasing the power of deep learning in bioinformatics.
+![Worm!](https://github.com/ianstender/yourrepo/blob/main/images/worm-genome-OIST-358osv2f3ljc3zw1a0pi4g.png)
 
 ## Table of Contents
 - [Background](#background)
