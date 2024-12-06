@@ -203,7 +203,7 @@ Evaluates the model's response to inserting specific motifs (e.g., TATA box) at 
 ### Filter Interpretation
 Analyzes positional nucleotide preferences captured by convolutional filters, uncovering potential motifs.
 
-![filters](images/filter_anlaysis.png)
+![filters](images/filter_analysis.png)
 
 
 ---
