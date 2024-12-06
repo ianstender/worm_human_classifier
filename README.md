@@ -2,7 +2,8 @@
 # Species-Specific DNA Classification Using Machine Learning
 
 This project uses convolutional neural networks (CNNs) to classify DNA sequences as belonging to either humans or worms. By analyzing 200 bp-long sequences, the model identifies species-specific patterns and motifs, showcasing the power of deep learning in bioinformatics.
-![Worm!](https://github.com/ianstender/yourrepo/blob/main/images/worm-genome-OIST-358osv2f3ljc3zw1a0pi4g.png)
+![Worm](images/worm-genome-OIST-358osv2f3ljc3zw1a0pi4g.png)
+
 
 ## Table of Contents
 - [Background](#background)
@@ -28,6 +29,8 @@ Understanding species-specific DNA sequences has applications in:
 - **Phylogenetics**: Exploring evolutionary histories and constructing phylogenetic trees.
 - **Molecular Evolution**: Detecting conserved motifs under selective evolutionary pressure.
 - **Forensics**: DNA-based species identification in complex scenarios.
+
+There has been minimal work to classify DNA sequences from two different species, and no work with this specific dataset. 
 
 This project aims to leverage machine learning to identify distinguishing DNA patterns and motifs.
 
